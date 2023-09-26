@@ -10,4 +10,4 @@ Hola, mi nombre en Andre Cerdan
 - 🎮 Desarrollador de videojuegos
 - ✖️ Sigueme en mi [Twitter](https://twitter.com/m3gaandr3)
 - 📷 Sigueme en mi [Instagram](https://www.instagram.com/m3gaandr3/)
-- Juegos hechos por mi [Itch.io](https://megaandre.itch.io)
+- Juegos hechos por mi subidos en [Itch.io](https://megaandre.itch.io)
