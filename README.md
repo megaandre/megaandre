@@ -5,7 +5,7 @@ Hola, mi nombre en Andre Cerdan
 **Soy estudiante** en la Universidad Amerike en la carrera de Diseño de Software y Videojuegos
 
 
-![github-profile](./docs/img/bannerperfil.png)
+![github-profile](./docs/img/bannerpPerfil.png)
 
 - 🎮 Desarrollador de videojuegos
 - ✖️ Sigueme en mi [Twitter](https://twitter.com/m3gaandr3)
